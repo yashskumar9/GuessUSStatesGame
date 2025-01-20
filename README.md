@@ -52,7 +52,7 @@ pip install pandas
 
 1. Clone the repository:
    ```bash  
-    git clone https://github.com/your-username/us-states-game.git  
+    git clone https://github.com/yashskumar9/us-states-game.git  
     ```
    
 2. Navigate to the project folder:
